@@ -9,4 +9,4 @@ NoisExpression/NoisExpression is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My Skills](https://skillicons.dev/icons?i=processing,cpp,java,ableton,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=processing,mysql)](https://skillicons.dev)
